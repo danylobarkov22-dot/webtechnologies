@@ -1,0 +1,9 @@
+{
+  "name": "Електроніка",
+  "items": [
+    {"id": 101, "name": "Смартфон", "shortname": "p1", "description": "Потужний смартфон.", "price": "15000 грн"},
+    {"id": 102, "name": "Ноутбук", "shortname": "p2", "description": "Швидкий ноутбук.", "price": "30000 грн"},
+    {"id": 103, "name": "Навушники", "shortname": "p3", "description": "Чистий звук.", "price": "2000 грн"},
+    {"id": 104, "name": "Годинник", "shortname": "p4", "description": "Розумний гаджет.", "price": "5000 грн"}
+  ]
+}
