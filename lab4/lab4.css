@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+#game-screen {
+    display: none;
+}
+
+#setup-screen {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.hud {
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+#game-area {
+    position: relative;
+    width: 100%;
+    height: 80vh; 
+    background-color: #f9f9f9;
+}
+
+#target {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    display: none;
+    cursor: pointer;
+}
